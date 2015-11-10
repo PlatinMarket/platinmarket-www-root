@@ -1,0 +1,7 @@
+# OS Related
+.DS_Store
+thumbs.db
+
+# Temp
+/tmp
+/vendor

@@ -1,0 +1,37 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.background {
+  position: fixed; top: 0; left: 0; z-index:-9999;
+  width: 100%;
+}
+
+.logo {
+  width:850px;
+  margin:250px auto 20px auto;
+  text-align:center;
+}
+
+.info-text {
+  text-indent: 10px;
+  width:810px;
+  margin:0 auto;
+  padding:20px;
+  text-align: justify;
+  color:#FFF;
+  font:16px arial;
+  background-color: rgba(255, 255, 255, 0.1);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+
+.info-text a {
+  text-decoration:underline;
+  color:#DDDDDD;
+}
+
+.info-text a:hover {
+  text-decoration:none;
+}
